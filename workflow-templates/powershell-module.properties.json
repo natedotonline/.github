@@ -1,0 +1,8 @@
+{
+    "name": "PowerShell Module Workflow",
+    "description": "Module for testing and releasing PowerShell modules.",
+    "iconName": "powershell",
+    "categories": [
+        "PowerShell"
+    ]
+}
